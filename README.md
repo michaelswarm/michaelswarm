@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @michaelswarm
-- 👀 I’m interested in Text and Natural Language. 
+- 👀 I’m interested in Plain Text and Natural Language. 
 - 🌱 I’m currently learning SwiftUI. 
 - 💞️ I’m looking to collaborate on personal Text and Language Processing applications for iOS, iPadOS and MacOS. 
 - 📫 How to reach me: michael.swarm@gmail.com. 
